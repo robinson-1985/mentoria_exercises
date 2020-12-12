@@ -1,7 +1,6 @@
-/* 15. Faça um programa que receba o preço unitário, a refrigeração (S para os 
-produtos que necessitem de refrigeração e N para os que não necessitem) e a 
-categoria (A — alimentação; L — limpeza; e V — vestuário) de doze produtos, 
-e que calcule e mostre:
+/* 15. Faça um programa que receba o preço unitário, a refrigeração (S para os produtos 
+que necessitem de refrigeração e N para os que não necessitem) e a categoria 
+(A — alimentação; L — limpeza; e V — vestuário) de doze produtos, e que calcule e mostre:
 
 ■ O custo de estocagem, calculado de acordo com a tabela a seguir.
 
