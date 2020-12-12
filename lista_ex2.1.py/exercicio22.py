@@ -1,5 +1,5 @@
-''' 2. Faça um programa que receba o salário base e o tempo de serviço de um
-funcionário. Calcule e mostre:
+''' 2. Faça um programa que receba o salário base e o tempo de serviço de um funcionário.
+Calcule e mostre:
 ■ O imposto, conforme a tabela a seguir.
 
 Salário Base                                        % Sobre o salário base
@@ -7,7 +7,6 @@ Salário Base                                        % Sobre o salário base
 Entre R$ 200,00(inclusive) e R$ 450,00(inclusive)              3%
 Entre R$ 450,00 e R$ 700,00                                    8%
 >= R$ 700,00                                                   12%
-
 
 ■ A gratificação, de acordo com a tabela a seguir.
 
@@ -17,7 +16,6 @@ Superior a R$ 500,00             Mais de 3 anos                    30
 Até R$ 500,00                    Até 3 anos                        23
 Até R$ 500,00                    Entre 3 e 6 anos                  35
 Até R$ 500,00                    De 6 anos para cima               33
-
 
 ■ O salário líquido, ou seja, salário base menos imposto mais gratificação.
 ■ A categoria, que está na tabela a seguir.
