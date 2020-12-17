@@ -4,6 +4,7 @@ Exiba o resultado da operação solicitada.*/
 
 #include <stdio.h>
 int main(){
+    float n1, n2; 
     
 
 
