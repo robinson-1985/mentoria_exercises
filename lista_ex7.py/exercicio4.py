@@ -1,1 +1,1 @@
-''' 4. Exiba a média dos números armazenados em uma matriz 3x3.'''
+# 4. Exiba a média dos números armazenados em uma matriz 3x3.
