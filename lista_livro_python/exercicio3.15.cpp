@@ -5,17 +5,17 @@
 
 #include<stdio.h>
 int main(){
-    int tempo_vida, quantidade_cigarros, anos_fumou;
-    printf("Quantos cigarros você fuma diariamente? \n");
+    int total_cigarros, quantidade_cigarros, anos_fumando, dias_perdidos;
+    printf("Quantos cigarros você fuma diariamente? ");
     scanf("%d", &quantidade_cigarros);
-    printf("Quantos anos você já fumou? \n");
-    scanf("%d", &anos_fumou);
+    printf("Quantos anos você já fumou? ");
+    scanf("%d", &anos_fumando);
 
     
-    tempo_vida = 
+    total_cigarros =  anos_fumando * quantidade_cigarros;    
+    dias_perdidos = (total_cigarros * 10)/24;
 
-
-
+    printf("Dias perdidos: %d \n", dias_perdidos); 
 
     getchar();
     return 0;
