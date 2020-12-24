@@ -12,15 +12,12 @@ Digite a opção desejada.
 Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto 
 usando as regras a seguir.
 
-
     SALÁRIO                                        PERCENTUAL DO IMPOSTO
 Menor que R$ 500,00                                         5% 
 De R$ 500,00(inclusive) e R$ 850,00(inclusive)              10%
 Acima de R$ 850,00                                          15%
 
-
 Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo 
-
 
     SALÁRIO                                               AUMENTO
 Menor que R$ 1500,00                                     R$ 25,00 
@@ -28,10 +25,8 @@ De R$ 750,00(inclusive) a R$ 1500,00(inclusive)          R$ 50,00
 De R$ 450,00(inclusive) a R$ 750,0                       R$ 75,00
 Melhor que R$ 450,00                                     R$ 100,00
 
-
 Na opção 3: receber o salário de um funcionário e mostrar sua classificação usando
 a tabela a seguir.
-
 
     SALÁRIO                                             AUMENTO
 Até R$ 700,00                                        Mal remunerado 
