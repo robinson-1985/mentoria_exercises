@@ -1,7 +1,6 @@
 /* 6. Faça um programa que carregue um vetor de dez números. Calcule e mostre um vetor
 resultante ordenado de maneira crescente. */
 
-
 #include <stdio.h>
 int main(){
     int TAMANHO_DO_VETOR = 10;
