@@ -5,7 +5,7 @@ preencha o 2° com os valores do primeiro em ordem inversa. */
 
 #include <stdio.h>
 int main(){
-    int TAMANHO_DO_VETOR = 2;
+    int TAMANHO_DO_VETOR = 8;
     int vetor[TAMANHO_DO_VETOR];
 
     for(int i = 0; i < TAMANHO_DO_VETOR; i++){
@@ -13,18 +13,14 @@ int main(){
         scanf("%d",&vetor[i]);
     }
 
-    printf("\n::: Valores originais :::\n");
-    for(int i = 0;i < TAMANHO_DO_VETOR; i++){
-        printf("%d\n",vetor[i]);
+    for(int i = 0; i < TAMANHO_DO_VETOR; i++){
+        printf("Valores original: %d\n", vetor[i]);
     }
 
-    printf("\n::: Valores na ordem inversa :::\n");
-    for(int i = 4;i >= 0; i--){
-        printf("%d\n",vetor[i]);
+    for(int i = 8; i >= 0; i--){
+        printf("Valores na ordem inversa: %d\n", vetor[i]);
     }
     
-
     getchar ();
     return 0;
-
 }

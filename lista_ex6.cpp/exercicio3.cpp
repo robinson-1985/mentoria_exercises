@@ -1,7 +1,6 @@
 /* 3. Criar 3 vetores com 10 posições, preencha com números os 2 primeiros, a seguir,
 some os valores nas respectivas posições e armazene no 3o vetor. */
 
-
 //Refazer
 
 #include <stdio.h>
@@ -23,7 +22,7 @@ int main(){
 
     for(int i = 0; i < TAMANHO_DO_VETOR; i++){
         vetor3[i] = vetor1[i] + vetor2[i];
-        printf("RESULTADO DA SOMA: %d", vetor3[i]);
+        printf("RESULTADO DA SOMA: %d\n", vetor3[i]);
     }
 
     getchar ();

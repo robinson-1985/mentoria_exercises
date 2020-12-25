@@ -19,13 +19,13 @@ int main(){
         }
     }
 
-    for(int i = 0; i< TAMANHO_DO_VETOR; i++){
+    for(int i = 0; i < TAMANHO_DO_VETOR; i++){
         if(i%3==0){
             printf("Esses são os números múltiplos de 3: %d\n", vetor[i]);
         }
     }
 
-    for(int i = 0; i< TAMANHO_DO_VETOR; i++){
+    for(int i = 0; i < TAMANHO_DO_VETOR; i++){
      if(i%2==0 && i%3==0){
             printf("Esses são os números múltiplos de 2 e 3: %d\n", vetor[i]);
         }

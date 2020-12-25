@@ -12,7 +12,7 @@ int main(){
     }
 
     for(int i = 0; i < TAMANHO_DO_VETOR; i++){
-        if(vetor[i]<vetor[i]== vetor[i]){
+        if(vetor[i] < vetor[i]== vetor[i]){
             printf("%d \n", vetor[i]);
         }
     }

@@ -1,4 +1,4 @@
-''' 1. Escreva um programa que exiba na tela a tabuada de um número que deverá ser
+''' 1. Escreva um programa que exiba na tela a tabuada de um número que deverá ser 
 informado pelo usuário (deverá ser usada qualquer estrutura de repetição). Exemplo:
 Digite um número: 4.
 4x0 = 0               4x6 = 24
