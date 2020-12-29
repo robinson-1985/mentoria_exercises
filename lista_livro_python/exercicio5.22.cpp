@@ -1,3 +1,12 @@
 /* 5.22 Escreva um programa que exiba uma lista de opções (menu): adição, subtração, 
 divisão, multiplicação e sair. Imprima a tabuada da operação escolhida. Repita até que 
 a opção saída seja escolhida.*/
+
+#include<stdio.h>
+int main(){
+
+
+
+    getchar();
+    return 0;
+}

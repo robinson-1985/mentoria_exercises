@@ -11,3 +11,12 @@ Código         Preço
 
 Seu programa deve exibir o total das compras depois que o usuário digitar 0. Qualquer 
 outro código deve gerar a mensagem de erro “Código inválido”. */
+
+#include<stdio.h>
+int main(){
+
+
+
+    getchar();
+    return 0;
+}

@@ -11,7 +11,6 @@ int main(){
     printf("Quantos anos você já fumou? ");
     scanf("%d", &anos_fumando);
 
-    
     total_cigarros =  anos_fumando * quantidade_cigarros;    
     dias_perdidos = (total_cigarros * 10)/24;
 

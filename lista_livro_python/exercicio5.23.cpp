@@ -3,3 +3,12 @@ Para fazer essa veriﬁcação, calcule o resto d a divisão do número por 2 e 
 todos os números ímpares até o número lido. Se o resto de uma dessas divisões for igual 
 a zero, o número não é primo. Observe que 0 e 1 não são primos e que 2 é o único número
 primo que é par. */
+
+#include<stdio.h>
+int main(){
+
+
+
+    getchar();
+    return 0;
+}
