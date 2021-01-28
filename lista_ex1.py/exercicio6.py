@@ -3,6 +3,7 @@ salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre
 base e paga imposto de 7% também sobre o salário base. '''
 
 salario_base = float(input("Digite o salario base do funcionário: R$ "))
+
 gratificacao = salario_base * 0.05
 imposto = salario_base * 0.07
 salario_a_receber = (salario_base + gratificacao) - imposto
