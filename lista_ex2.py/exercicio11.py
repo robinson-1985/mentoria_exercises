@@ -13,9 +13,9 @@ cubo = math.pow(numero, 3)
 raiz_quadrada = math.pow(numero, 2) 
 raiz_cubica = math.pow(numero, 3)
 
-print(f'\nO quadrado do {numero} digitado é {quadrado}\n')
-print(f'\nO cubo do {numero} digitado é {cubo}\n')
-print(f'\nA raiz quadrada de {numero} é {raiz_quadrada}\n') # outing
+print(f'\nO quadrado do número {numero} digitado é {quadrado}\n')
+print(f'\nO cubo do número {numero} digitado é {cubo}\n')
+print(f'\nA raiz quadrada do número {numero} é {raiz_quadrada}\n') # outing
 print(f'\nA raiz cúbica de {numero} é {raiz_cubica}\n') # outing
 
 
