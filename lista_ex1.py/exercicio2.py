@@ -6,4 +6,4 @@ nota3 = float(input("Informe a nota 3: "))
 
 media = (nota1 + nota2 + nota3) / 3
 
-print("A média aritmética das notas é: ", media)
+print(f"A média aritmética das notas é: {media:.2}")
