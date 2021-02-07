@@ -9,4 +9,4 @@ imposto = salario * 0.1
 
 salario_a_receber = salario + gratificacao - imposto
 
-print('O salário a receber do funcionário é: R$ ', salario_a_receber)
+print('O salário final do funcionário é: R$ ', salario_a_receber)
